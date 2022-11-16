@@ -1,3 +1,10 @@
+// Detalles del código:
+// funciones anónimas
+// ternary operator
+// textContent vs value
+// equal operator == vs ===
+
+
 'use strict';
 
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
